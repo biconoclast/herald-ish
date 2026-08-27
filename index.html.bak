@@ -3,33 +3,30 @@
   <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Developmental Editing Services for Fantasy and Sci Fi Authors and
-      Comic Creators — Herald-ish</title>
-    <meta name="description" content="Individualized and detailed developmental editing for fantasy, sci fi, and speculative novels and comic projects.">
-   
-<!-- Open Graph-->
-  <meta property="og:type" content="website">
-  <meta property="og:url" content="https://herald-ish.com">
-  <meta property="og:title" content="Developmental Editing Services for Fantasy and Sci Fi Authors and
-      Comic Creators — Herald-ish">
-  <meta property="og:description" content="Individualized and detailed developmental editing for fantasy, sci fi, and speculative novels and comic projects.">
-  <meta property="og:image" content="https://herald-ish.com/heraldishog.png">
-  <meta property="og:image:width" content="1200">
-  <meta property="og:image:height" content="630">
-  <meta property="og:image:alt" content="Give your manuscript the personal attention it deserves.">
-  <meta property="og:site_name" content="Herald-ish">
-  
-  <!-- Twitter -->
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:url" content="https://herald-ish.com">
-  <meta name="twitter:title" content="Developmental Editing Services for Fantasy and Sci Fi Authors and
-      Comic Creators — Herald-ish">
-  <meta name="twitter:description" content="Individualized and detailed developmental editing for fantasy, sci fi, and speculative novels and comic projects.">
-  <meta name="twitter:image" content="https://herald-ish.com/heraldishog.png">
-  <meta name="twitter:image:alt" content="Give your manuscript the personal attention it deserves.">
-    
+    <title>Developmental Editing for Fantasy and Sci Fi Novels and Comics — Herald-ish</title>
+    <meta name="description" content="Individualized and detailed developmental editing services for fantasy, sci fi, and speculative authors and comic creators.">
+    <!-- Open Graph-->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://herald-ish.com">
+    <meta property="og:title" content="Developmental Editing for Fantasy and Sci Fi Novels and Comics — Herald-ish">
+    <meta property="og:description" content="Individualized developmental editing services for fantasy, sci fi, and speculative authors and comic creators.">
+    <meta property="og:image" content="https://herald-ish.com/heraldishog.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:image:alt" content="Give your manuscript the personal attention it deserves.">
+    <meta property="og:site_name" content="Herald-ish">
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:url" content="https://herald-ish.com">
+    <meta name="twitter:title" content="Developmental Editing for Fantasy and Sci Fi Novels and Comics — Herald-ish">
+    <meta name="twitter:description" content="Individualized developmental editing services for fantasy, sci fi, and speculative authors and comic creators.">
+    <meta name="twitter:image" content="https://herald-ish.com/heraldishog.png">
+    <meta name="twitter:image:alt" content="Give your manuscript the personal attention it deserves.">
+    <!-- Bootstrap-->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css"
+
       rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB"
+
       crossorigin="anonymous">
     <title></title>
   </head>
